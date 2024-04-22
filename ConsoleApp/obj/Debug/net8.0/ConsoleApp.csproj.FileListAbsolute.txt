@@ -1,0 +1,15 @@
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/workspaces/skills-copilot-codespaces-vscode/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
